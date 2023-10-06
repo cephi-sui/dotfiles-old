@@ -192,8 +192,22 @@ view_actual_size=
 view_zoom_in=
 view_zoom_out=
 
+[org.kde.konsole.desktop][Global Shortcuts]
+NewTab=
+NewWindow=
+_launch=Ctrl+Alt+T; Meta+Return
+
 [org.kde.plasma-systemmonitor.desktop][Global Shortcuts]
 _launch=Ctrl+Shift+Esc
+
+[org.kde.spectacle.desktop][Global Shortcuts]
+ActiveWindowScreenShot=Meta+Print
+CurrentMonitorScreenShot=Print
+FullScreenScreenShot=Shift+Print
+OpenWithoutScreenshot=
+RectangularRegionScreenShot=Meta+Shift+S
+WindowUnderCursorScreenShot=
+_launch=
 
 [systemsettings.desktop][Global Shortcuts]
 _launch=Tools; Meta+I
