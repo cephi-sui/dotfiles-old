@@ -1,0 +1,14 @@
+#colors
+background=#24273a
+foreground=#cad3f5
+accent=#b7bdf8
+negative=#ee99a0
+button=#363a4f
+inactive=#b8c0e0
+link=#8aadf4
+visitedlink=#8bd5ca
+
+#details
+name=test
+author="Name of author to put in kvconfig"
+comment="This comment will be put in kvconfig"
